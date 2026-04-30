@@ -774,6 +774,13 @@
                                 image: "images/wallmart.png",
                                 link: "https://github.com/reemaa-h/Data-Analysis?tab=readme-ov-file#project-1-customer-churn-analysis",
                               },
+
+                                {
+                                name: "interactive hospital dashboard",
+                                description:"An interactive hospital dashboard built with Python to explore patient data and predict health risks",
+                                image: "images/Overview page.png",
+                                link: "https://github.com/reemaa-h/Data-Analysis?tab=readme-ov-file#project-1-customer-churn-analysis",
+                              },
                               
                              // {
                                // name: "NYC Schools SAT Results",
